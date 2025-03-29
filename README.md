@@ -1,3 +1,3 @@
 # Data_Analysis
- Introduction to Data Analysis
- Introduction to Machine Learning
+ - Introduction to Data Analysis
+ - Introduction to Machine Learning
